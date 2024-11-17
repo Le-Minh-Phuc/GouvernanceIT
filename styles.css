@@ -1,0 +1,126 @@
+/* -- Coded by Yann FORNIER -- */
+
+
+/* -- CSS of body -- */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(to right, #4facfe, #00f2fe);
+    color: #333;
+}
+
+/* -- CSS of header -- */
+header {
+    background-color: rgba(255, 255, 255, 0.9);
+    padding: 20px;
+    text-align: center;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+header h1 {
+    margin: 0;
+    font-size: 2.5em;
+    color: #4facfe;
+}
+header p {
+    font-size: 1.2em;
+    color: #555;
+}
+.container {
+    max-width: 1200px;
+    margin: 50px auto;
+    padding: 20px;
+    text-align: center;
+}
+.container h2 {
+    font-size: 2em;
+    color: #fff;
+    margin-bottom: 20px;
+}
+.container p {
+    font-size: 1.2em;
+    line-height: 1.6;
+    color: #f5f5f5;
+}
+
+/* -- CSS of buttons -- */
+
+.button {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #fff;
+    color: #4facfe;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 1em;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease-in-out;
+}
+.button:hover {
+    background-color: #4facfe;
+    color: #fff;
+}
+footer {
+    text-align: center;
+    padding: 20px;
+    background: rgba(255, 255, 255, 0.9);
+    box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.1);
+    margin-top: 50px;
+}
+footer p {
+    margin: 0;
+    font-size: 1em;
+    color: #777;
+}
+
+/* -- CSS of images -- */
+
+.image-container {
+    position: relative;
+}
+
+.image-gauche {
+    position: absolute;
+    top: 50px;
+    left: 200px;
+    width: 300px;
+    height: auto;
+}
+
+.image-droite {
+    position: absolute;
+    top: 70px;
+    right: 200px;
+    width: 300px;
+    height: auto;
+}
+
+.image-bottom{
+    position: absolute;
+    bottom: 15px;
+    width: 200px;
+    height: auto;
+}
+
+p {
+    margin-top: 120px;
+    text-align: center;
+}
+
+.download-button {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #fff;
+    background-color: #007bff;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+.download-button:hover {
+    background-color: #0056b3;
+}
