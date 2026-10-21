@@ -1,0 +1,101 @@
+id_collaborateur;nom;prenom;email;date_naissance;date_embauche;type_contrat;code_service;intitule_poste;niveau_classification;salaire_brut_mensuel;taux_temps_travail;solde_cp;solde_rtt;id_manager;profil_acces;niveau_formation;competences_cles;date_fin_contrat
+1001;MEYER;Sophie;s.meyer@entreprise.fr;24/11/1981;01/02/2022;CDI;RH;Gestionnaire paie;Employé N3;2151.01;1.0;0.3;0.7;1006;COLLABORATEUR;Bac+3;Communication|SIRH|Recrutement|GPEC|Gestion admin RH;
+1002;FRANCOIS;Adrien;a.francois@entreprise.fr;09/06/1991;01/04/2011;CDI;RH;Responsable formation;TAM N3;3404.42;1.0;8.4;0.7;1094;MANAGER;Bac+3;GPEC|Formation|SIRH|Communication;
+1003;DUBOIS;Patrick;p.dubois@entreprise.fr;07/10/1989;01/01/2009;CDI;RH;Assistant RH;TAM N1;1232.37;0.5;19.3;0.0;1006;COLLABORATEUR;Bac+3;Droit social|Gestion admin RH|Formation;
+1004;FONTAINE;Christophe;c.fontaine@entreprise.fr;22/12/1986;01/10/2007;CDI;RH;Chargé de recrutement;TAM N1;2452.42;1.0;13.4;2.0;1002;COLLABORATEUR;Bac+5;Formation|PowerPoint|Recrutement|GPEC;
+1005;BARON;Thierry;t.baron@entreprise.fr;09/07/1988;01/04/2008;CDI;RH;Gestionnaire administration du personnel;Employé N3;2284.72;1.0;14.2;5.7;1007;COLLABORATEUR;Bac+3;Excel|Gestion admin RH|Communication|Droit social|Paie;
+1006;MEYER;Camille;c.meyer@entreprise.fr;13/10/1988;01/04/2024;CDD;RH;Responsable formation;Cadre;1841.27;0.5;0.3;0.0;1094;MANAGER;Bac+3;Paie|Communication|Gestion admin RH;28/10/2024
+1007;ROUSSEAU;Emilie;e.rousseau@entreprise.fr;24/11/1965;01/11/2023;CDD;RH;Responsable formation;Cadre confirmé;4627.78;1.0;3.5;2.7;1094;MANAGER;Bac+5;Paie|Excel|SIRH|GPEC;28/05/2025
+1008;NOEL;Jean;j.noel@entreprise.fr;20/09/1998;01/03/2023;CDD;RH;Chargé de recrutement;Employé N2;1932.43;1.0;3.4;6.2;1002;COLLABORATEUR;Bac+5;Communication|GPEC|Excel;28/03/2024
+1009;FONTAINE;Julie;j.fontaine@entreprise.fr;03/10/1985;01/12/2007;CDI;RH;Gestionnaire administration du personnel;Employé N3;2107.71;1.0;1.7;6.1;1002;COLLABORATEUR;Bac+3;Excel|PowerPoint|Paie;
+1010;ROUSSEL;Jean;j.roussel@entreprise.fr;21/11/1990;01/08/2019;CDI;RH;Assistant RH;Employé N3;2279.12;1.0;6.9;2.0;1002;COLLABORATEUR;Bac+3;SIRH|PowerPoint|Recrutement|Formation;
+1011;ROBERT;Sophie;s.robert@entreprise.fr;02/02/2002;17/02/2024;Stage;RH;Chargée de mission SIRH;Employé N1;745.62;1.0;5.4;0.0;1002;COLLABORATEUR;Bac+5;Communication|Excel|Recrutement|Gestion admin RH|PowerPoint;28/06/2024
+1012;DURAND;Maxime;m.durand@entreprise.fr;14/07/2003;02/12/2024;Stage;RH;DRH;Employé N1;793.85;1.0;0.6;0.0;;RH_ADMIN;Bac+5;Droit social|Recrutement|PowerPoint|Communication;28/06/2025
+1013;LECOMTE;Julien;j.lecomte@entreprise.fr;26/08/1980;01/02/2022;CDI;IT;Administrateurtrice systèmes;TAM N3;2849.01;1.0;9.0;6.7;1016;COLLABORATEUR;Bac+5;React|Linux|Cybersécurité;
+1014;VINCENT;Maxime;m.vincent@entreprise.fr;09/07/1965;01/05/2019;CDI;IT;DSI;Cadre dirigeant;5792.29;1.0;15.2;8.0;;RH_ADMIN;Bac+3;AWS|Cybersécurité|React|Node.js|PostgreSQL;
+1015;HENRY;Claire;c.henry@entreprise.fr;19/01/1966;01/09/2025;Freelance;IT;DSI;Cadre dirigeant;6364.69;1.0;0.0;0.5;;RH_ADMIN;Bac+3;React|Java|Agile;
+1016;DAVID;Valerie;v.david@entreprise.fr;03/10/1966;01/11/2018;CDI;IT;Responsable cybersécurité;Cadre confirmé;4483.17;1.0;8.9;7.5;1094;MANAGER;Bac+5;AWS|Docker|Node.js|PostgreSQL|Linux;
+1017;JACQUET;Valerie;v.jacquet@entreprise.fr;20/08/1978;01/02/2025;CDD;IT;Data Analyst;TAM N3;3147.38;1.0;0.8;1.1;1021;COLLABORATEUR;Bac+5;Node.js|Docker|PostgreSQL;28/08/2025
+1018;CLEMENT;Chloe;c.clement@entreprise.fr;04/11/2001;01/09/2022;Alternance;IT;Data Analyst;Employé N1;1344.86;1.0;7.4;0.0;1024;COLLABORATEUR;Bac+5;PostgreSQL|Agile|Node.js|Docker;
+1019;GUERIN;Valerie;v.guerin@entreprise.fr;21/02/1979;01/05/2024;CDD;IT;Data Analyst;TAM N3;2820.19;1.0;2.5;5.1;1021;COLLABORATEUR;Bac+5;AWS|Cybersécurité|DevOps;28/11/2024
+1020;MARTIN;Patrick;p.martin@entreprise.fr;19/06/1976;01/03/2022;CDI;IT;Développeuruse Full-Stack;Cadre;3625.07;1.0;0.4;2.9;1024;COLLABORATEUR;Bac+5;Node.js|Scrum|Azure|Java;
+1021;MORIN;Emmanuel;e.morin@entreprise.fr;14/03/2000;01/09/2022;Alternance;IT;Responsable cybersécurité;Employé N1;1362.24;1.0;7.8;0.0;1094;MANAGER;Bac+5;AWS|Node.js|PostgreSQL|React|Java;
+1022;THOMAS;Benoit;b.thomas@entreprise.fr;27/05/1989;01/04/2014;CDI;IT;Support informatique;TAM N2;2499.28;1.0;4.8;2.6;1024;COLLABORATEUR;Bac+5;Docker|Scrum|DevOps|Linux;
+1023;DUBOIS;Thomas;t.dubois@entreprise.fr;20/02/1976;01/06/2018;CDI;IT;Data Analyst;Cadre;3840.39;1.0;5.7;4.8;1024;COLLABORATEUR;Bac+3;Linux|Agile|Node.js;
+1024;LACROIX;Nicolas;n.lacroix@entreprise.fr;14/06/1971;01/11/2007;CDI;IT;Responsable cybersécurité;Cadre confirmé;3819.77;0.8;15.6;0.0;1094;MANAGER;Bac+3;AWS|PostgreSQL|DevOps;
+1025;MULLER;Mickael;m.muller@entreprise.fr;14/04/1979;01/11/2017;CDI;IT;DevOps Engineer;Cadre;3854.51;1.0;3.4;4.6;1024;COLLABORATEUR;Bac+5;Python|PostgreSQL|AWS|Node.js|Linux;
+1026;FRANCOIS;Philippe;p.francois@entreprise.fr;06/12/2004;10/02/2025;Stage;IT;Support informatique;Employé N1;785.78;1.0;0.9;0.0;1016;COLLABORATEUR;Bac+5;PostgreSQL|Node.js|AWS|React|Python;28/08/2025
+1027;CHEVALIER;Camille;c.chevalier@entreprise.fr;23/12/1984;01/08/2024;CDD;IT;Développeureuse Full-Stack;TAM N3;1483.74;0.5;1.8;0.0;1024;COLLABORATEUR;Bac+5;Azure|Linux|Node.js;28/08/2025
+1028;GUERRERO;Helene;h.guerrero@entreprise.fr;05/08/1978;01/11/2019;CDI;IT;Support informatique;Cadre;3698.11;1.0;8.2;2.5;1021;COLLABORATEUR;Bac+5;AWS|DevOps|Linux|Azure|Cybersécurité;
+1029;CHEVALIER;Marine;m.chevalier@entreprise.fr;21/08/1994;01/05/2015;CDI;IT;Support informatique;TAM N2;2724.25;1.0;17.8;1.9;1016;COLLABORATEUR;Bac+5;DevOps|Java|React|Scrum;
+1030;GUERRERO;Emilie;e.guerrero@entreprise.fr;11/07/1991;01/07/2025;Freelance;IT;Administrateurtrice systèmes;TAM N2;2520.14;1.0;0.3;3.1;1021;COLLABORATEUR;Bac+3;Python|Agile|Linux|Cybersécurité|Azure;
+1031;NOEL;Clement;c.noel@entreprise.fr;14/05/1985;01/01/2020;CDI;COMPTA;Contrôleuruse de gestion;Employé N3;2067.45;1.0;9.5;6.4;1035;COLLABORATEUR;Bac+5;Audit|Excel|Contrôle de gestion;
+1032;VINCENT;Justine;j.vincent@entreprise.fr;28/03/2002;01/09/2023;Alternance;COMPTA;Assistante comptable;Employé N1;1030.08;1.0;3.3;0.0;1039;COLLABORATEUR;Bac+3;Fiscalité|Trésorerie|Excel|Comptabilité générale;
+1033;RICHARD;Thierry;t.richard@entreprise.fr;03/11/1985;01/01/2006;CDI;COMPTA;Contrôleuruse de gestion;Employé N2;1999.86;1.0;5.0;0.2;1039;COLLABORATEUR;Bac+2;Excel|Audit|Fiscalité;
+1034;LEROY;Manon;m.leroy@entreprise.fr;20/10/1983;01/03/2022;Freelance;COMPTA;Contrôleureuse de gestion;TAM N1;2606.89;1.0;1.0;0.2;1035;COLLABORATEUR;Bac+3;Trésorerie|IFRS|Fiscalité|SAP|Sage;
+1035;GUERRERO;Julie;j.guerrero@entreprise.fr;26/10/2001;18/06/2023;Stage;COMPTA;Responsable comptabilité;Employé N1;620.69;1.0;6.5;0.0;1094;MANAGER;Bac+2;Audit|SAP|Comptabilité générale|Excel;28/11/2023
+1036;LAURENT;David;d.laurent@entreprise.fr;15/08/1995;01/12/2019;CDI;COMPTA;Contrôleuruse de gestion;TAM N1;1216.25;0.5;4.6;0.0;1035;COLLABORATEUR;Bac+2;Contrôle de gestion|Audit|SAP;
+1037;MATHIEU;Laurent;l.mathieu@entreprise.fr;06/06/1993;01/04/2018;CDI;COMPTA;Trésorier;TAM N1;2321.18;1.0;4.8;2.2;1039;COLLABORATEUR;Bac+5;Contrôle de gestion|Sage|IFRS|SAP|Audit;
+1038;MULLER;Marine;m.muller@entreprise.fr;16/12/1998;01/01/2024;CDD;COMPTA;Contrôleureuse de gestion;Employé N3;2028.24;1.0;1.7;1.9;1035;COLLABORATEUR;Bac+5;Fiscalité|Audit|Contrôle de gestion|Trésorerie|Excel;28/07/2024
+1039;MORIN;Fabrice;f.morin@entreprise.fr;09/05/1973;01/02/2012;CDI;COMPTA;Responsable comptabilité;Cadre confirmé;4602.19;1.0;7.9;5.9;1094;MANAGER;Bac+5;Comptabilité générale|IFRS|Fiscalité;
+1040;AUBERT;Romain;r.aubert@entreprise.fr;08/05/1984;01/03/2024;CDD;COMPTA;Assistant comptable;TAM N1;2161.58;1.0;2.0;2.2;1039;COLLABORATEUR;Bac+2;Contrôle de gestion|Excel|Fiscalité|Comptabilité générale|Sage;28/03/2025
+1041;FOURNIER;Manon;m.fournier@entreprise.fr;09/01/1983;01/02/2024;CDD;VENTES;Chargée de comptes;TAM N2;2703.08;1.0;0.3;5.0;1043;COLLABORATEUR;Bac+2;Prospection|Gestion de comptes|CRM;28/08/2024
+1042;MORIN;Julie;j.morin@entreprise.fr;15/08/1990;01/10/2017;CDI;VENTES;Ingénieure commerciale;Employé N3;1853.27;0.8;6.0;0.0;1046;COLLABORATEUR;Bac+5;Négociation|Salesforce|Excel;
+1043;GARCIA;Alice;a.garcia@entreprise.fr;03/09/1970;01/01/2010;CDI;VENTES;Directeurtrice commerciale;Cadre dirigeant;5775.58;1.0;17.2;3.8;1094;MANAGER;Bac+2;Gestion de comptes|Management|Excel;
+1044;BLANC;Pierre;p.blanc@entreprise.fr;04/07/1971;01/04/2022;CDI;VENTES;Responsable commercial;Cadre confirmé;2269.25;0.5;7.8;0.0;1094;MANAGER;Bac+2;CRM|Prospection|PowerPoint;
+1045;MEYER;Olivier;o.meyer@entreprise.fr;23/08/1999;01/09/2023;Alternance;VENTES;Ingénieur commercial;Employé N2;1371.34;1.0;5.0;0.0;1046;COLLABORATEUR;Bac+3;Négociation|CRM|Salesforce|Excel;
+1046;BERTRAND;Olivier;o.bertrand@entreprise.fr;27/11/1965;01/10/2013;CDI;VENTES;Directeurtrice commercial;Cadre dirigeant;5350.89;1.0;18.9;3.8;1094;MANAGER;Bac+5;Gestion de comptes|Prospection|Management|Salesforce;
+1047;CHEVALIER;Pierre;p.chevalier@entreprise.fr;11/03/1981;01/12/2018;CDI;VENTES;Commercial terrain;TAM N1;2387.06;1.0;11.2;3.2;1046;COLLABORATEUR;Bac+5;Anglais|Négociation|Prospection;
+1048;DUBOIS;Sebastien;s.dubois@entreprise.fr;02/07/1992;01/09/2013;CDI;VENTES;Ingénieur commercial;Employé N2;1430.42;0.8;18.9;0.0;1043;COLLABORATEUR;Bac+5;CRM|Salesforce|Prospection|Gestion de comptes;
+1049;FOURNIER;Justine;j.fournier@entreprise.fr;20/11/1978;01/12/2023;Freelance;VENTES;Chargée de comptes;TAM N2;2572.09;1.0;2.4;4.4;1044;COLLABORATEUR;Bac+2;Négociation|Anglais|CRM;
+1050;LACROIX;Mathilde;m.lacroix@entreprise.fr;08/08/1993;01/09/2024;CDD;VENTES;Commerciale terrain;TAM N1;2334.65;1.0;2.3;4.1;1044;COLLABORATEUR;Bac+2;Gestion de comptes|PowerPoint|Prospection;28/03/2025
+1051;MARTIN;Thierry;t.martin@entreprise.fr;16/11/1996;01/08/2023;Freelance;VENTES;Commercial terrain;TAM N1;2407.26;1.0;1.8;4.4;1044;COLLABORATEUR;Bac+5;Anglais|Excel|PowerPoint|Négociation;
+1052;ROUSSEAU;Manon;m.rousseau@entreprise.fr;26/12/1993;01/07/2017;CDI;VENTES;Responsable commerciale;TAM N3;3423.53;1.0;16.2;5.2;1043;COLLABORATEUR;Bac+2;CRM|Prospection|Gestion de comptes|PowerPoint;
+1053;DURAND;Benoit;b.durand@entreprise.fr;24/01/1992;01/07/2023;CDD;VENTES;Ingénieur commercial;Employé N2;1347.7;0.8;4.2;0.0;1044;COLLABORATEUR;Bac+3;PowerPoint|Négociation|Management|Prospection;28/01/2024
+1054;GUERIN;Sebastien;s.guerin@entreprise.fr;21/04/1967;01/05/2025;CDD;VENTES;Responsable grands comptes;Cadre confirmé;4624.23;1.0;0.3;0.8;1046;COLLABORATEUR;Bac+5;Négociation|Anglais|Management|Excel|Prospection;28/11/2025
+1055;BONNET;Claire;c.bonnet@entreprise.fr;05/07/1989;01/09/2014;CDI;VENTES;Ingénieure commerciale;TAM N1;2347.99;1.0;17.0;1.4;1043;COLLABORATEUR;Bac+2;PowerPoint|Salesforce|Anglais;
+1056;GARNIER;Camille;c.garnier@entreprise.fr;10/08/1975;01/03/2022;CDI;VENTES;Responsable grands comptes;Cadre;3368.55;1.0;8.3;7.9;1044;COLLABORATEUR;Bac+3;PowerPoint|Gestion de comptes|Salesforce|Prospection|Négociation;
+1057;CHEVALIER;Benoit;b.chevalier@entreprise.fr;10/10/1976;01/01/2014;CDI;VENTES;Directeurtrice commercial;Cadre dirigeant;6432.22;1.0;16.5;2.2;1043;COLLABORATEUR;Bac+5;CRM|Anglais|PowerPoint|Prospection|Négociation;
+1058;GUERIN;Adrien;a.guerin@entreprise.fr;21/11/1999;01/09/2022;Alternance;VENTES;Responsable commercial;Employé N2;1120.41;1.0;5.8;0.0;1044;COLLABORATEUR;Bac+5;Négociation|Gestion de comptes|Prospection;
+1059;LEFEVRE;Alexandre;a.lefevre@entreprise.fr;09/03/1983;01/05/2024;CDD;VENTES;Responsable commercial;Cadre;3115.95;0.8;1.5;0.0;1046;COLLABORATEUR;Bac+2;Salesforce|PowerPoint|Anglais;28/05/2025
+1060;VINCENT;Pierre;p.vincent@entreprise.fr;12/08/1968;01/10/2013;CDI;VENTES;Directeurtrice commercial;Cadre dirigeant;4595.1;0.8;16.0;0.0;1043;COLLABORATEUR;Bac+3;Salesforce|Anglais|CRM;
+1061;MATHIEU;Florian;f.mathieu@entreprise.fr;10/12/2004;04/07/2025;Stage;LOG;Cheffe d'entrepôt;Employé N1;611.16;1.0;10.0;0.0;1094;MANAGER;CAP/BEP;Logistique|Gestion des stocks|Transport;28/11/2025
+1062;GARCIA;Francois;f.garcia@entreprise.fr;21/07/1982;01/08/2022;Freelance;LOG;Agent logistique;TAM N2;2819.27;1.0;7.2;2.2;1064;COLLABORATEUR;Bac+3;Logistique|SST|Transport|ERP;
+1063;BLANC;Antoine;a.blanc@entreprise.fr;07/05/1990;01/08/2023;CDD;LOG;Préparateurtrice de commandes;TAM N1;2465.44;1.0;3.3;4.8;1065;COLLABORATEUR;CAP/BEP;Excel|Logistique|ERP;28/02/2024
+1064;NOEL;Marie;m.noel@entreprise.fr;25/06/1972;01/10/2009;CDI;LOG;Coordinateurtrice transport;Cadre confirmé;3980.83;1.0;21.5;1.2;1094;MANAGER;CAP/BEP;Supply Chain|Gestion des stocks|WMS|Excel|CACES;
+1065;LAMBERT;Sophie;s.lambert@entreprise.fr;02/05/2000;01/09/2022;Alternance;LOG;Cheffe d'entrepôt;Employé N2;1163.04;1.0;7.5;0.0;1094;MANAGER;Bac+2;Excel|ERP|Logistique|Supply Chain;
+1066;THOMAS;Sarah;s.thomas@entreprise.fr;21/08/2003;16/01/2023;Stage;LOG;Agent logistique;Employé N1;632.39;1.0;7.1;0.0;1061;COLLABORATEUR;Bac+2;ERP|Excel|Supply Chain;28/06/2023
+1067;MOREAU;Marie;m.moreau@entreprise.fr;10/09/2003;01/09/2023;Alternance;LOG;Préparateurtrice de commandes;Employé N2;1115.1;1.0;7.9;0.0;1065;COLLABORATEUR;CAP/BEP;Transport|Logistique|SST|CACES|ERP;
+1068;GARNIER;Sebastien;s.garnier@entreprise.fr;22/06/1991;01/06/2013;CDI;LOG;Gestionnaire stocks;Employé N2;2001.29;1.0;17.2;3.8;1064;COLLABORATEUR;CAP/BEP;ERP|CACES|WMS;
+1069;MOREAU;Stephane;s.moreau@entreprise.fr;04/11/1975;01/06/2018;CDI;LOG;Coordinateurtrice transport;Cadre confirmé;3787.14;0.8;17.0;0.0;1061;COLLABORATEUR;Bac+2;WMS|Supply Chain|SST|Gestion des stocks|Excel;
+1070;PERRIN;Manon;m.perrin@entreprise.fr;12/02/1972;01/06/2022;CDI;LOG;Cheffe d'entrepôt;Cadre confirmé;4077.73;1.0;2.3;1.8;1064;COLLABORATEUR;Bac+2;Transport|WMS|Supply Chain|Excel|Gestion des stocks;
+1071;MOREL;Emma;e.morel@entreprise.fr;28/03/1978;01/10/2009;CDI;LOG;Agent logistique;TAM N1;2462.9;1.0;1.7;5.9;1061;COLLABORATEUR;CAP/BEP;Transport|Logistique|SST;
+1072;DUPONT;Philippe;p.dupont@entreprise.fr;05/01/1977;01/10/2010;CDI;LOG;Cheffe d'entrepôt;Cadre;3351.18;1.0;2.0;3.5;1061;COLLABORATEUR;Bac+2;SST|CACES|Gestion des stocks|ERP;
+1073;LECOMTE;Aurelie;a.lecomte@entreprise.fr;22/09/1980;01/01/2014;CDI;LOG;Responsable logistique;Cadre confirmé;2084.55;0.5;24.6;0.0;1065;COLLABORATEUR;CAP/BEP;Logistique|Supply Chain|ERP;
+1074;BERTRAND;Stephanie;s.bertrand@entreprise.fr;14/12/1993;01/03/2013;CDI;LOG;Préparateurtrice de commandes;Employé N2;1794.67;1.0;17.6;4.0;1061;COLLABORATEUR;Bac+3;ERP|CACES|SST|Excel;
+1075;BERNARD;Lea;l.bernard@entreprise.fr;13/10/1991;01/11/2020;CDI;LOG;Gestionnaire stocks;TAM N1;1175.31;0.5;1.4;0.0;1065;COLLABORATEUR;CAP/BEP;Gestion des stocks|SST|CACES|Excel;
+1076;LECOMTE;Pierre;p.lecomte@entreprise.fr;03/09/1977;01/05/2017;CDI;MKT;Directeurtrice marketing;Cadre dirigeant;6164.53;1.0;4.6;6.2;1094;MANAGER;Bac+3;Google Ads|Canva|CRM|Adobe Suite|Inbound Marketing;
+1077;DURAND;Camille;c.durand@entreprise.fr;25/03/1997;01/03/2016;CDI;MKT;Cheffe de produit;TAM N3;3400.79;1.0;14.9;3.7;1094;MANAGER;Bac+5;Analyse de données|Inbound Marketing|CRM|Anglais|Adobe Suite;
+1078;ROBERT;Chloe;c.robert@entreprise.fr;02/10/1973;01/09/2024;CDD;MKT;Community Manager;Cadre confirmé;4246.83;1.0;1.1;0.5;1077;COLLABORATEUR;Bac+5;Google Ads|CRM|Canva;28/03/2025
+1079;NICOLAS;Chloe;c.nicolas@entreprise.fr;05/09/1990;01/08/2009;CDI;MKT;Responsable digital;Cadre;1694.95;0.5;22.5;0.0;1076;COLLABORATEUR;Bac+5;Google Ads|Adobe Suite|SEO|Anglais|Canva;
+1080;ROBIN;Jean;j.robin@entreprise.fr;14/07/1987;01/11/2015;CDI;MKT;Graphiste;TAM N3;3184.29;1.0;19.4;5.2;1076;COLLABORATEUR;Bac+3;Google Ads|CRM|Adobe Suite|Analyse de données;
+1081;RICHARD;Nathalie;n.richard@entreprise.fr;21/05/2003;13/11/2025;Stage;MKT;Graphiste;Employé N1;881.4;1.0;3.1;0.0;1076;COLLABORATEUR;Bac+5;Inbound Marketing|Adobe Suite|Anglais|CRM|Réseaux sociaux;28/03/2026
+1082;GARCIA;Elise;e.garcia@entreprise.fr;06/05/1986;01/06/2023;CDD;MKT;Community Manager;Cadre;3453.69;1.0;5.6;1.2;1076;COLLABORATEUR;Bac+5;Anglais|SEO|Inbound Marketing;28/06/2024
+1083;BARON;Yannick;y.baron@entreprise.fr;06/03/1979;01/12/2010;CDI;MKT;Graphiste;Cadre;3630.75;1.0;10.3;5.4;1076;COLLABORATEUR;Bac+3;Réseaux sociaux|Analyse de données|Google Ads|Anglais;
+1084;CHEVALIER;Isabelle;i.chevalier@entreprise.fr;25/08/1979;01/07/2014;CDI;MKT;Cheffe de produit;Cadre confirmé;2206.66;0.5;10.5;0.0;1076;COLLABORATEUR;Bac+3;Adobe Suite|Réseaux sociaux|SEO;
+1085;FONTAINE;Benoit;b.fontaine@entreprise.fr;03/05/1978;01/05/2010;CDI;MKT;Graphiste;Cadre;2911.32;0.8;12.8;0.0;1077;COLLABORATEUR;Bac+5;Canva|Analyse de données|Adobe Suite;
+1086;PETIT;Lea;l.petit@entreprise.fr;12/02/1990;01/01/2023;CDD;JUR;Paralégale;TAM N3;3388.25;1.0;5.6;5.2;1089;COLLABORATEUR;Bac+5;Droit des contrats|Droit des affaires|RGPD;28/01/2024
+1087;LACROIX;Stephanie;s.lacroix@entreprise.fr;09/01/1977;01/03/2023;CDD;JUR;Paralégale;Cadre;3992.95;1.0;3.8;3.4;1089;COLLABORATEUR;Bac+5;Droit des affaires|Droit des contrats|Rédaction juridique;28/09/2024
+1088;GUERIN;Lea;l.guerin@entreprise.fr;01/09/1997;01/10/2023;CDI;JUR;Paralégale;TAM N2;2617.26;1.0;0.7;3.4;1089;COLLABORATEUR;Bac+5;Rédaction juridique|RGPD|Droit social;
+1089;FONTAINE;Pauline;p.fontaine@entreprise.fr;28/07/1965;01/01/2024;CDD;JUR;Directeurtrice juridique;Cadre dirigeant;5148.63;0.8;1.1;0.0;1094;MANAGER;Bac+5;Droit des contrats|Droit des affaires|Droit social|Rédaction juridique;28/01/2025
+1090;HENRY;Stephanie;s.henry@entreprise.fr;27/06/1995;01/03/2023;CDI;JUR;Juriste contrats;TAM N2;2935.34;1.0;4.3;7.8;1089;COLLABORATEUR;Bac+5;Droit social|Anglais juridique|Droit des contrats|Droit des affaires|Rédaction juridique;
+1091;LEFEVRE;Isabelle;i.lefevre@entreprise.fr;17/05/1975;01/09/2017;CDI;DIR;PDG;Cadre dirigeant;5850.4;1.0;0.7;5.2;;RH_ADMIN;Bac+5;Gestion de projet|Management|Excel|Anglais;
+1092;FONTAINE;Helene;h.fontaine@entreprise.fr;16/03/1988;01/06/2021;CDI;DIR;Assistante de direction;TAM N2;2986.11;1.0;5.5;6.4;1094;COLLABORATEUR;Bac+3;Management|PowerPoint|Anglais|Stratégie;
+1093;DURAND;Sebastien;s.durand@entreprise.fr;20/08/1974;01/03/2018;CDI;DIR;PDG;Cadre dirigeant;6099.9;1.0;6.6;0.3;;RH_ADMIN;Bac+5;PowerPoint|Excel|Management|Anglais|Communication;
+1094;PERRIN;Francois;f.perrin@entreprise.fr;05/01/1979;01/04/2007;CDI;DIR;Directeurtrice général;Cadre dirigeant;6202.25;1.0;9.2;3.1;;MANAGER;Bac+3;Anglais|Stratégie|PowerPoint;
+1095;FRANCOIS;Francois;f.francois@entreprise.fr;11/07/1976;01/04/2013;CDI;DIR;PDG;Cadre dirigeant;6412.12;1.0;0.6;1.5;;RH_ADMIN;Bac+3;Anglais|Management|Excel|Gestion de projet;
+1096;MATHIEU;Maxime;m.mathieu@entreprise.fr;28/03/1978;01/08/2022;Freelance;ACHAT;Responsable sourcing;Cadre;3439.75;1.0;5.5;8.0;1094;MANAGER;Bac+5;Excel|Analyse des coûts|Négociation|Gestion fournisseurs|SAP;
+1097;SIMON;Benoit;b.simon@entreprise.fr;08/03/1984;01/01/2020;CDI;ACHAT;Acheteuruse;Employé N3;2055.86;1.0;8.1;3.7;1098;COLLABORATEUR;Bac+3;ERP|Négociation|SAP|Sourcing|Gestion fournisseurs;
+1098;MULLER;Emmanuel;e.muller@entreprise.fr;15/08/1967;01/06/2021;CDI;ACHAT;Directeurtrice achats;Cadre dirigeant;5452.49;1.0;8.8;4.4;1094;MANAGER;Bac+3;Anglais|Gestion fournisseurs|Négociation;
+1099;LAURENT;Pauline;p.laurent@entreprise.fr;17/06/1985;01/02/2014;CDI;ACHAT;Responsable sourcing;TAM N3;2971.54;1.0;15.9;4.4;1096;COLLABORATEUR;Bac+3;Gestion fournisseurs|Analyse des coûts|Anglais|Négociation|ERP;
+1100;GARCIA;Emma;e.garcia@entreprise.fr;21/01/1999;01/09/2024;Alternance;ACHAT;Responsable sourcing;Employé N1;1005.4;1.0;5.7;0.0;1098;COLLABORATEUR;Bac+3;Gestion fournisseurs|Excel|SAP|Sourcing;
